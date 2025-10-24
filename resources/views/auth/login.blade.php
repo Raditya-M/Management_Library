@@ -4,7 +4,7 @@
         <!-- Header -->
         <div class="text-center space-y-2">
             <h1 class="text-2xl font-bold text-gray-900">Welcome back</h1>
-            <p class="text-gray-600">Sign in to your LibraFlow account</p>
+            <p class="text-gray-600">Sign in to your LibraryFein account</p>
         </div>
 
         <!-- Session Status -->

@@ -4,7 +4,7 @@
         <!-- Header -->
         <div class="text-center space-y-2">
             <h1 class="text-2xl font-bold text-gray-900">Create account</h1>
-            <p class="text-gray-600">Join LibraFlow to manage your library</p>
+            <p class="text-gray-600">Join LibraryFein to manage your library</p>
         </div>
 
         <!-- Register Form -->
